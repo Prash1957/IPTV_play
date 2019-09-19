@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:0,Channel 1
+#EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony SET HD
+#EXTINF:0,Channel 2
+https://sonypremium.akamaized.net/pristine/hls/live/724563/SONYSETHD/exp=1568981383~acl=%2f*~data=hdntl~hmac=9c361435b3128e19c985e756b2e18b5deffcdbf10ef3bcfea0a23f614787deb8/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACGwYRdAAAAALsVqMhG+ChjZZk3iDT+84DrA8qwEQmZfmscN8MYOjIopTBeuVvp6YllKMexXfjhlj9j3p4DjZNh|user-agent="ExoPlayerDemo/4.9.2 (Linux;Android 8.1.0) ExoPlayerLib/2.7.1"
+#EXTINF:0,Channel 3
+#EXTINF:-1 tvg-id="SONY SAB HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
+#EXTINF:0,Channel 4
+https://sonypremium.akamaized.net/exp=1568982735~acl=%2f*~data=hdntl~hmac=697be58b467f1e745544d2d1df7650e683a0399751022b891d8964a0e9270deb/amagi_hls_data_sony-host-sonysabhd/CDN/256x144_154000/index.m3u8?aka_me_session_id=AAAAAAAAAADPxoRdAAAAALWA9Bbb5CxSexqC6L5IsL8Dqlu+xdwECzjhiRF3mKpBJDV3kRKIm5bQru6wVvjlpwN68zltxy4H|user-agent="ExoPlayerDemo/4.9.2 (Linux;Android 8.1.0) ExoPlayerLib/2.7.1"
+#EXTINF:0,Channel 5
+#EXTINF:-1 tvg-id="Zee TV HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+#EXTINF:0,Channel 6
+http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+#EXTINF:0,Channel 7
+#EXTINF:-1 tvg-id="Andtv HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
+#EXTINF:0,Channel 8
+http://pockettv.xyz/api/zee.m3u8?c=andtvhd
+#EXTINF:0,Channel 9
+#EXTINF:-1 tvg-id="STAR PLUS HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
+#EXTINF:0,Channel 10
+http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+#EXTINF:0,Channel 11
+#EXTINF:-1 tvg-id="Aaj Tak HD" group-title="Hindi News",HW News
+#EXTINF:0,Channel 12
+https://5d44491778047.streamlock.net/hwnews/gb1066/chunklist_w1183726849.m3u8|user-agent="Mozilla/5.0 (Linux; Android 8.1.0; ASUS_X00TD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.73 Mobile Safari/537.36"
+#EXTINF:0,Channel 13
+#EXTINF:-1 tvg-id="Aaj Tak HD" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",AajTak HD
+#EXTINF:0,Channel 14
+https://playback.akamaized.net/streams/27265481_8490606_lsioh5thrf34avrfft7_1/media/27265481_8490606_lsioh5thrf34avrfft7_1@2128000p.m3u8?dw=80&ts=1568887200&hdnts=exp=1569060115~acl=/streams/27265481_8490606_lsioh5thrf34avrfft7_1/media*~hmac=a08ff0f044d247688b57a0432ca002a91afe681a7502875274a0659915215aa9|user-agent="Mozilla/5.0 (Linux; Android 8.1.0; ASUS_X00TD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.73 Mobile Safari/537.36"
+#EXTINF:0,Channel 15
+#EXTINF:-1 tvg-id="id N/A" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",NDTV INDIA
+#EXTINF:0,Channel 16
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@120190919T101550_1241847.ts|user-agent="Mozilla/5.0 (Linux; Android 8.1.0; ASUS_X00TD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.73 Mobile Safari/537.36"
+#EXTINF:0,Channel 17
+#EXTINF:-1 tvg-id="Zee Business" group-title="Hindi News 2" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
+#EXTINF:0,Channel 18
+https://z5ams.akamaized.net/zeebusiness/index.m3u8?hdnts=st=1568886482~exp=1568889482~acl=/*~hmac=e4fcd0bf1ee4245f0637bc7c8729ae4bd79d4a0d738007fa8b07fe2f320d1cbd|user-agent="Mozilla/5.0 (Linux; Android 8.1.0; ASUS_X00TD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.73 Mobile Safari/537.36"
